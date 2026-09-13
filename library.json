@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "id": "B-VPI59",
+            "title": "Game of Thrones",
+            "author": "Mr. X",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "04/09/26"
+        },
+        {
+            "id": "B-ZVHO0",
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "04/09/26"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-6GWM0",
+            "name": "Mr. Beam",
+            "email": "Beam@gmail.com",
+            "member_since": "04/09/26",
+            "borowed": []
+        }
+    ]
+}
